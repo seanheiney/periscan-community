@@ -1,0 +1,23 @@
+Copyright (c) Periscan contributors. All rights reserved.
+
+Periscan product software (the control plane, web application, API, worker,
+runner agent, shared packages, and first-party validation modules that do not
+redistribute third-party engines) is proprietary and confidential unless a
+separate written license from Periscan expressly grants additional rights.
+
+Permission is granted to authorized customers and design partners to use the
+product under their commercial or evaluation agreement. No other license to
+copy, modify, distribute, or create derivative works of the product source is
+granted by this file.
+
+Third-party open-source validation engines, Node dependencies, and related
+components remain under their own SPDX licenses. See:
+
+- licenses/THIRD_PARTY_NOTICES.md  (generated inventory + attribution)
+- OPEN_SOURCE_POLICY.md
+- docs/OPEN_SOURCE_LICENSE_POLICY.md
+
+Those third-party licenses are not altered by this proprietary product license.
+When Periscan redistributes a third-party binary (for example in an optional
+legal-review image stage or after Engine Lab license acceptance), the upstream
+license obligations for that component continue to apply.
