@@ -39,7 +39,7 @@ security-boundaries, fix-verification) are the enforcement. This file is the led
 
 - CLAIM: Public Community source is **Apache-2.0** (founder decision
   2026-08-30, PERISCAN-529). Canonical public repo target is the
-  `Periscan` GitHub org. The goldeneye `seanheiney/periscan` tree stays
+  `seanventures/periscan`. The goldeneye `seanheiney/periscan` tree stays
   **private forever**. Hosted SaaS / MSSP / marketplace remain commercial
   product, not a second LICENSE file in this repo.
   NOT: claim full BAS, live offensive, or that private goldeneye files

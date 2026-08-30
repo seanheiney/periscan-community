@@ -24,7 +24,7 @@ runner, policy gates, or dependency supply chain):
 
 1. **Do not** post exploit details, payloads, or credentials in a public issue.
 2. Open a **title-only** GitHub issue on
-   [periscan-community](https://github.com/seanheiney/periscan-community/issues)
+   [seanventures/periscan](https://github.com/seanventures/periscan/issues)
    prefixed `[SECURITY]` (no PoC in the body). Maintainers will follow up.
 3. Include in the private follow-up: affected component/version, reproduction
    against **your own** lab or written-authorized systems only, impact, and any

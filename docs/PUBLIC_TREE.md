@@ -10,8 +10,8 @@ them here.
 
 **This private repo stays private forever.** Public snapshots are a **new
 repository** that never contained these paths (not a visibility flip of
-`seanheiney/periscan`). Snapshot: `seanheiney/periscan-community` (source-available,
-same product LICENSE until counsel).
+`seanheiney/periscan`). Canonical public snapshot: `seanventures/periscan`
+(Apache-2.0).
 
 Local Community / lab compose is
 `infra/docker-compose/docker-compose.yml`. Root `compose.yaml` is not that.
